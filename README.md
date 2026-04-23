@@ -10,7 +10,7 @@ KPI Calculations using Excel
 Interactive Dashboard creation using Power BI
 Business Insights and Reporting Tools Used
 Excel
-SQL (PostgreSQL)
+SQL (mySQL)
 Power BI
 ## Steps Performed
 1. Data Analysis (SQL)
